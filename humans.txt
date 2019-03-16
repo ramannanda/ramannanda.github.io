@@ -16,7 +16,7 @@ Haters ;)
 Standards: HTML5, CSS3
 Components: Gulp, Sass, favicon.io, etc.
 Software: Sublime Text 3
-Platform: GitHub
+Platform: Google Analytics, GitHub
 
 /* NOTE */
 Built with love by Raman Nanda.
