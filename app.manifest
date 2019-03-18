@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Time: Mon Mar 18 2019 19:44:55 GMT-0400 (EDT)
+
+CACHE:
+favicon.ico
+humans.txt
+index.html
+robots.txt
+service-worker.js
+css/main.min.css
+
+NETWORK:
+*
+
+SETTINGS:
+prefer-online
+
+# hash: 1fba14fbf8a0d1eabda5a14d0ce8574c6854fafe77680c2cd02d7329a9e48adf
